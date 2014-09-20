@@ -3,10 +3,14 @@ body {
 }
 
 a:link {
-  color:#0066FF;
+  color:#0000FF;
   text-decoration: none;
 }
 
 a:hover {
   color: #996600;
+}
+
+a:visited {
+    color: #0000FF;
 }
