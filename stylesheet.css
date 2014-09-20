@@ -10,3 +10,8 @@ a:link {
 a:hover {
   color: #996600;
 }
+
+a:visited {
+  color:#0000FF;
+  text-decoration: none;
+}
