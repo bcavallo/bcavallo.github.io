@@ -7,8 +7,8 @@ body {
     float: left;
     clear: both;
     background-color: green;
-    height: 100%;
-    width: 60px;
+    min-height: 100%;
+    width: 250px;
 }
 
 h1 {
