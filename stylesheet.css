@@ -14,9 +14,9 @@ body {
     float: left;
     clear: both;
     background-color: green;
-    padding: 5px;
+    padding: 10px;
     height: 100%;
-    margin-top:-5px;
+    margin-top:-15px;
 }
 
 h1 {
