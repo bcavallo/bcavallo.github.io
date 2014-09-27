@@ -9,6 +9,10 @@ body {
     height: 100%;
 }
 
+#content {
+    margin-left: 10px;
+}
+
 #menu {
     position: relative;
     float: left;
