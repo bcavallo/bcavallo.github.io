@@ -14,10 +14,14 @@ body {
     float: left;
     clear: both;
     background-color: green;
-    width: 150px;
+    width: 120px;
     height: 100%;
     margin-top:-20px;
     padding: 10px;
+}
+
+div {
+    margin-left: 5px;
 }
 
 h1 {
