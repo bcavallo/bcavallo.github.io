@@ -16,6 +16,7 @@ body {
     background-color: green;
     padding: 5px;
     height: 100%;
+    margin-top:-5px;
 }
 
 h1 {
