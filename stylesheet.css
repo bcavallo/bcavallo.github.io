@@ -4,9 +4,9 @@ body {
 
 #menu {
     position: relative;
-	float: right;
-	clear: both;
-	background-color: green;
+    float: right;
+    clear: both;
+    background-color: green;
 }
 
 h1 {
@@ -17,6 +17,7 @@ h1 {
     border-left-width: 5px;
     background-color: #FFFFCC;
     padding-left: 20px;
+    margin-top: -2px;
 }
 
 a:link {
