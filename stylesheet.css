@@ -1,5 +1,12 @@
 body {
-  background-color: #47D147;
+    background-color: #EBEBEB;
+}
+
+h1 {
+    font-family: Garamond;
+    border: 2px solid #3399FF;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
 }
 
 a:link {
