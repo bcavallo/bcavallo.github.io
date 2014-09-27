@@ -7,6 +7,8 @@ h1 {
     border: 2px solid #3399FF;
     border-bottom-width: 0px;
     border-right-width: 0px;
+    background-color: #FFFFCC;
+    padding-left: 10px;
 }
 
 a:link {
