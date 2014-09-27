@@ -15,17 +15,18 @@ body {
     clear: both;
     background-color: green;
     min-height = 100%;
-    width: 135px;
+    width: 175px;
 }
 
 h1 {
     font-family: Garamond;
-    border: 2px solid #3399FF;
+    border: 3px solid #3399FF;
     border-bottom-width: 0px;
     border-right-width: 0px;
     border-left-width: 5px;
     background-color: #FFFFCC;
     padding-left: 20px;
+    margin-top: -2px;
 }
 
 a:link {
