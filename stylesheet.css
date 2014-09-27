@@ -3,7 +3,7 @@ body {
 }
 
 #menu {
-    position: fixed;
+    position: relative;
     float: left;
     clear: both;
     background-color: green;
