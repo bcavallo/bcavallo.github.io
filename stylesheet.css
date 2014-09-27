@@ -4,9 +4,11 @@ body {
 
 #menu {
     position: relative;
-    float: right;
+    float: left;
     clear: both;
     background-color: green;
+    height: 100%;
+    width: 20px;
 }
 
 h1 {
