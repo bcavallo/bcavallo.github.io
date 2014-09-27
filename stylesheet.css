@@ -2,6 +2,13 @@ body {
     background-color: #EBEBEB;
 }
 
+#menu {
+    position: relative;
+	float: right;
+	clear: both;
+	background-color: green;
+}
+
 h1 {
     font-family: Garamond;
     border: 2px solid #3399FF;
@@ -10,7 +17,6 @@ h1 {
     border-left-width: 5px;
     background-color: #FFFFCC;
     padding-left: 20px;
-    margin-top: -2px;
 }
 
 a:link {
