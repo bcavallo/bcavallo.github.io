@@ -10,11 +10,11 @@ body {
 }
 
 #content {
-    margin-left: 130px;
+    margin-left: 200px;
 }
 
 #menu {
-    position: fixed;
+    position: relative;
     float: left;
     clear: both;
     background-color: green;
