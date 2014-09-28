@@ -14,7 +14,7 @@ body {
 }
 
 #menu {
-    position: relative;
+    position: fixed;
     float: left;
     clear: both;
     background-color: green;
